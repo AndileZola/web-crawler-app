@@ -1,0 +1,68 @@
+C:\Workspace\POC\web-crawler-app\bin\Debug\net7.0\web-crawler-app.exe
+C:\Workspace\POC\web-crawler-app\bin\Debug\net7.0\web-crawler-app.deps.json
+C:\Workspace\POC\web-crawler-app\bin\Debug\net7.0\web-crawler-app.runtimeconfig.json
+C:\Workspace\POC\web-crawler-app\bin\Debug\net7.0\web-crawler-app.dll
+C:\Workspace\POC\web-crawler-app\bin\Debug\net7.0\web-crawler-app.pdb
+C:\Workspace\POC\web-crawler-app\obj\Debug\net7.0\web-crawler-app.csproj.AssemblyReference.cache
+C:\Workspace\POC\web-crawler-app\obj\Debug\net7.0\web-crawler-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\POC\web-crawler-app\obj\Debug\net7.0\web-crawler-app.AssemblyInfoInputs.cache
+C:\Workspace\POC\web-crawler-app\obj\Debug\net7.0\web-crawler-app.AssemblyInfo.cs
+C:\Workspace\POC\web-crawler-app\obj\Debug\net7.0\web-crawler-app.csproj.CoreCompileInputs.cache
+C:\Workspace\POC\web-crawler-app\obj\Debug\net7.0\web-crawler-app.dll
+C:\Workspace\POC\web-crawler-app\obj\Debug\net7.0\refint\web-crawler-app.dll
+C:\Workspace\POC\web-crawler-app\obj\Debug\net7.0\web-crawler-app.pdb
+C:\Workspace\POC\web-crawler-app\obj\Debug\net7.0\web-crawler-app.genruntimeconfig.cache
+C:\Workspace\POC\web-crawler-app\obj\Debug\net7.0\ref\web-crawler-app.dll
+C:\Workspace\POC\web-crawler-app\bin\Debug\net7.0\HtmlAgilityPack.dll
+C:\Workspace\POC\web-crawler-app\obj\Debug\net7.0\web-crawler-app.csproj.CopyComplete
+C:\Users\8905286034089\Downloads\WebCrawler-main\WebCrawler-main\web-crawler-app\bin\Debug\net7.0\web-crawler-app.exe
+C:\Users\8905286034089\Downloads\WebCrawler-main\WebCrawler-main\web-crawler-app\bin\Debug\net7.0\web-crawler-app.deps.json
+C:\Users\8905286034089\Downloads\WebCrawler-main\WebCrawler-main\web-crawler-app\bin\Debug\net7.0\web-crawler-app.runtimeconfig.json
+C:\Users\8905286034089\Downloads\WebCrawler-main\WebCrawler-main\web-crawler-app\bin\Debug\net7.0\web-crawler-app.dll
+C:\Users\8905286034089\Downloads\WebCrawler-main\WebCrawler-main\web-crawler-app\bin\Debug\net7.0\web-crawler-app.pdb
+C:\Users\8905286034089\Downloads\WebCrawler-main\WebCrawler-main\web-crawler-app\bin\Debug\net7.0\HtmlAgilityPack.dll
+C:\Users\8905286034089\Downloads\WebCrawler-main\WebCrawler-main\web-crawler-app\obj\Debug\net7.0\web-crawler-app.csproj.AssemblyReference.cache
+C:\Users\8905286034089\Downloads\WebCrawler-main\WebCrawler-main\web-crawler-app\obj\Debug\net7.0\web-crawler-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8905286034089\Downloads\WebCrawler-main\WebCrawler-main\web-crawler-app\obj\Debug\net7.0\web-crawler-app.AssemblyInfoInputs.cache
+C:\Users\8905286034089\Downloads\WebCrawler-main\WebCrawler-main\web-crawler-app\obj\Debug\net7.0\web-crawler-app.AssemblyInfo.cs
+C:\Users\8905286034089\Downloads\WebCrawler-main\WebCrawler-main\web-crawler-app\obj\Debug\net7.0\web-crawler-app.csproj.CoreCompileInputs.cache
+C:\Users\8905286034089\Downloads\WebCrawler-main\WebCrawler-main\web-crawler-app\obj\Debug\net7.0\web-crawler-app.csproj.CopyComplete
+C:\Users\8905286034089\Downloads\WebCrawler-main\WebCrawler-main\web-crawler-app\obj\Debug\net7.0\web-crawler-app.dll
+C:\Users\8905286034089\Downloads\WebCrawler-main\WebCrawler-main\web-crawler-app\obj\Debug\net7.0\refint\web-crawler-app.dll
+C:\Users\8905286034089\Downloads\WebCrawler-main\WebCrawler-main\web-crawler-app\obj\Debug\net7.0\web-crawler-app.pdb
+C:\Users\8905286034089\Downloads\WebCrawler-main\WebCrawler-main\web-crawler-app\obj\Debug\net7.0\web-crawler-app.genruntimeconfig.cache
+C:\Users\8905286034089\Downloads\WebCrawler-main\WebCrawler-main\web-crawler-app\obj\Debug\net7.0\ref\web-crawler-app.dll
+C:\Users\aczol\Downloads\web-crawler-app-main\web-crawler-app-main\bin\Debug\net7.0\web-crawler-app.exe
+C:\Users\aczol\Downloads\web-crawler-app-main\web-crawler-app-main\bin\Debug\net7.0\web-crawler-app.deps.json
+C:\Users\aczol\Downloads\web-crawler-app-main\web-crawler-app-main\bin\Debug\net7.0\web-crawler-app.runtimeconfig.json
+C:\Users\aczol\Downloads\web-crawler-app-main\web-crawler-app-main\bin\Debug\net7.0\web-crawler-app.dll
+C:\Users\aczol\Downloads\web-crawler-app-main\web-crawler-app-main\bin\Debug\net7.0\web-crawler-app.pdb
+C:\Users\aczol\Downloads\web-crawler-app-main\web-crawler-app-main\bin\Debug\net7.0\HtmlAgilityPack.dll
+C:\Users\aczol\Downloads\web-crawler-app-main\web-crawler-app-main\obj\Debug\net7.0\web-crawler-app.csproj.AssemblyReference.cache
+C:\Users\aczol\Downloads\web-crawler-app-main\web-crawler-app-main\obj\Debug\net7.0\web-crawler-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aczol\Downloads\web-crawler-app-main\web-crawler-app-main\obj\Debug\net7.0\web-crawler-app.AssemblyInfoInputs.cache
+C:\Users\aczol\Downloads\web-crawler-app-main\web-crawler-app-main\obj\Debug\net7.0\web-crawler-app.AssemblyInfo.cs
+C:\Users\aczol\Downloads\web-crawler-app-main\web-crawler-app-main\obj\Debug\net7.0\web-crawler-app.csproj.CoreCompileInputs.cache
+C:\Users\aczol\Downloads\web-crawler-app-main\web-crawler-app-main\obj\Debug\net7.0\web-crawler-app.csproj.CopyComplete
+C:\Users\aczol\Downloads\web-crawler-app-main\web-crawler-app-main\obj\Debug\net7.0\web-crawler-app.dll
+C:\Users\aczol\Downloads\web-crawler-app-main\web-crawler-app-main\obj\Debug\net7.0\refint\web-crawler-app.dll
+C:\Users\aczol\Downloads\web-crawler-app-main\web-crawler-app-main\obj\Debug\net7.0\web-crawler-app.pdb
+C:\Users\aczol\Downloads\web-crawler-app-main\web-crawler-app-main\obj\Debug\net7.0\web-crawler-app.genruntimeconfig.cache
+C:\Users\aczol\Downloads\web-crawler-app-main\web-crawler-app-main\obj\Debug\net7.0\ref\web-crawler-app.dll
+C:\Users\8905286034089\Downloads\web-crawler-app-main (1)\web-crawler-app-main\bin\Debug\net7.0\web-crawler-app.exe
+C:\Users\8905286034089\Downloads\web-crawler-app-main (1)\web-crawler-app-main\bin\Debug\net7.0\web-crawler-app.deps.json
+C:\Users\8905286034089\Downloads\web-crawler-app-main (1)\web-crawler-app-main\bin\Debug\net7.0\web-crawler-app.runtimeconfig.json
+C:\Users\8905286034089\Downloads\web-crawler-app-main (1)\web-crawler-app-main\bin\Debug\net7.0\web-crawler-app.dll
+C:\Users\8905286034089\Downloads\web-crawler-app-main (1)\web-crawler-app-main\bin\Debug\net7.0\web-crawler-app.pdb
+C:\Users\8905286034089\Downloads\web-crawler-app-main (1)\web-crawler-app-main\bin\Debug\net7.0\HtmlAgilityPack.dll
+C:\Users\8905286034089\Downloads\web-crawler-app-main (1)\web-crawler-app-main\obj\Debug\net7.0\web-crawler-app.csproj.AssemblyReference.cache
+C:\Users\8905286034089\Downloads\web-crawler-app-main (1)\web-crawler-app-main\obj\Debug\net7.0\web-crawler-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8905286034089\Downloads\web-crawler-app-main (1)\web-crawler-app-main\obj\Debug\net7.0\web-crawler-app.AssemblyInfoInputs.cache
+C:\Users\8905286034089\Downloads\web-crawler-app-main (1)\web-crawler-app-main\obj\Debug\net7.0\web-crawler-app.AssemblyInfo.cs
+C:\Users\8905286034089\Downloads\web-crawler-app-main (1)\web-crawler-app-main\obj\Debug\net7.0\web-crawler-app.csproj.CoreCompileInputs.cache
+C:\Users\8905286034089\Downloads\web-crawler-app-main (1)\web-crawler-app-main\obj\Debug\net7.0\web-crawler-app.csproj.CopyComplete
+C:\Users\8905286034089\Downloads\web-crawler-app-main (1)\web-crawler-app-main\obj\Debug\net7.0\web-crawler-app.dll
+C:\Users\8905286034089\Downloads\web-crawler-app-main (1)\web-crawler-app-main\obj\Debug\net7.0\refint\web-crawler-app.dll
+C:\Users\8905286034089\Downloads\web-crawler-app-main (1)\web-crawler-app-main\obj\Debug\net7.0\web-crawler-app.pdb
+C:\Users\8905286034089\Downloads\web-crawler-app-main (1)\web-crawler-app-main\obj\Debug\net7.0\web-crawler-app.genruntimeconfig.cache
+C:\Users\8905286034089\Downloads\web-crawler-app-main (1)\web-crawler-app-main\obj\Debug\net7.0\ref\web-crawler-app.dll

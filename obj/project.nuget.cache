@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tVdNoHhc9881FEa/iODmXZIoz9jY6kg4LxN1cxulraEsHMY+3ZSbCRb0D8M2W8/nOrkr/POdVrZr8fJw6NSNRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\8905286034089\\Downloads\\web-crawler-app-main (1)\\web-crawler-app-main\\web-crawler-app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\8905286034089\\.nuget\\packages\\htmlagilitypack\\1.11.54\\htmlagilitypack.1.11.54.nupkg.sha512"
+  ],
+  "logs": []
+}

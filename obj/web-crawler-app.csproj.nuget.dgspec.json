@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\8905286034089\\Downloads\\web-crawler-app-main (1)\\web-crawler-app-main\\web-crawler-app.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\8905286034089\\Downloads\\web-crawler-app-main (1)\\web-crawler-app-main\\web-crawler-app.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\8905286034089\\Downloads\\web-crawler-app-main (1)\\web-crawler-app-main\\web-crawler-app.csproj",
+        "projectName": "web-crawler-app",
+        "projectPath": "C:\\Users\\8905286034089\\Downloads\\web-crawler-app-main (1)\\web-crawler-app-main\\web-crawler-app.csproj",
+        "packagesPath": "C:\\Users\\8905286034089\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\8905286034089\\Downloads\\web-crawler-app-main (1)\\web-crawler-app-main\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\23.1.36\\ToolboxNuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\8905286034089\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Syncfusion Toolbox for WPF.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WinUI\\23.1.36\\NuGetPackages": {},
+          "C:\\Workspace\\SharedNuGetPackages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/PSGHub/_packaging/PSG_Internal_Package_Feed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.54, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
